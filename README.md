@@ -1,0 +1,1 @@
+This is the sample code for the book [ECR, EKS and Python Docker images: A step by step guide to deploying to Kubernetes in AWS](https://www.amazon.com/ECR-EKS-Python-Docker-images-ebook/dp/B089JDPB86/ref=sr_1_5?dchild=1&keywords=matthew+casperson&qid=1591219209&sr=8-5).
