@@ -1,1 +1,0 @@
-Compress-Archive -Path app.py, Procfile, requirements.txt -DestinationPath beanstalk-app-bundle.zip -Force
