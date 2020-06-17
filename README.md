@@ -5,7 +5,7 @@ Detailed instructions can be found in the Kindle book
 
 # Commands and notes
 
-* install flask python library:
+* install flask python library:<br>
 pip3 install flask
 * test Python web app locally:
 python3 app.py
