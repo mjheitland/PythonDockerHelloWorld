@@ -18,6 +18,8 @@ docker run -p 8080:8080 pythonhelloworld
 aws configure<br>
 and check that you are "KubernetesAdmin"<br>
 aws sts get-caller-identity
+* create ECR repository:<br>
+aws ecr create-repository --repository-name pythonhelloworld
 * log into AWS ECR<br>
 (aws ecr get-login is deprecated, use aws ecr get-login-password instead):<br>
 aws ecr get-login-password \
